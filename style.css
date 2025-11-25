@@ -6,12 +6,12 @@ display: flex;
 justify-content: center;
 align-items: center;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-background-color: #ffe6f0;
-color: #d63384;
+background-color: #ffeef3;
+color: #ffa3bc;
 }
 
 h1 {
 font-size: 3rem;
 font-weight: bold;
-text-shadow: 2px 2px 0px #fff;
+text-shadow: 2px 2px 0px #aba0a0;
 }
